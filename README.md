@@ -2,7 +2,7 @@
 ![](/header.png)
 - 🔭 I’m currently working at [Clevver.io](https://www.clevver.io/) as a Senior PHP Developer with 5 years of experience in PHP, with good knowledge of Database Design, Design Pattern.
 - 🌱 I’m currently learning ReactJS and Python to become a Full Stack Developer
-- 💬 Ask me about web development, functional programming and serverless.
+- 💬 Ask me about web development, functional programming and server.
 - ⚡ Fun fact: Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within groups.
 
 
