@@ -37,7 +37,7 @@
 #### 📊 Stats
 [![ThangNM's](https://github-readme-stackoverflow.vercel.app/?userID=6075942&layout=compact)](https://stackoverflow.com/users/6075942/thangnm)
 
-![Thang NM's](https://github-readme-stats.vercel.app/api?username=thangnm93&include_all_commits=true&hide=contribs&show_icons=true&icon_color=CE1D2D&hide_title=true&hide_border=true&bg_color=00000000)
+![Thang NM's](https://github-readme-stats.vercel.app/api?username=thangnm93&include_all_commits=true&hide=contribs&show_icons=true&icon_color=CE1D2D&hide_title=true&hide_border=true)
 
 <br/>
 <br/>
