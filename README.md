@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I'm [Thang Nguyen](https://github.com/thangnm93)
 ![](/header.png)
 - 🔭 I’m currently working at [Clevver.io](https://www.clevver.io/) as a Senior PHP Developer with 5 years of experience in PHP, with good knowledge of Database Design, Design Pattern.
 - 🌱 I’m currently learning ReactJS and Python to become a Full Stack Developer
@@ -7,11 +7,11 @@
 
 
 #### 📫 How to reach me:
-[<img src="https://img.icons8.com/color/48/000000/globe.png" width="3.5%"/>](https://thangnm.info/)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/thang-nguyen-minh/)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/thangnm93)
-<a href="mailto:minhthang0403@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://thangnm.info/)](https://thangnm.info/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thangnm93)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thang-nguyen-minh/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white)](https://twitter.com/thangnm93)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:minhthang0403@gmail.com)
 
 #### 👨🏻‍💻 Languages and Tools <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
@@ -38,7 +38,7 @@
 [![ThangNM's](https://github-readme-stackoverflow.vercel.app/?userID=6075942&layout=compact)](https://stackoverflow.com/users/6075942/thangnm)
 
 ![Thang NM's](https://github-readme-stats.vercel.app/api?username=thangnm93&include_all_commits=true&hide=contribs&show_icons=true&icon_color=CE1D2D&hide_title=true&hide_border=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thangnm93&layout=compact&hide_title=true&hide_border=true)](https://github.com/thangnm93/github-readme-stats)
 <br/>
 <br/>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=thangnm93.thangnm93" alt="visitor badge" /> </p>
