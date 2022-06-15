@@ -1,10 +1,9 @@
 ### Hi there 👋. I'm [Thang Nguyen](https://github.com/thangnm93)
 ![](/header.png)
-- 🔭 I’m currently working at [Clevver.io](https://www.clevver.io/) as a Senior PHP Developer with 6 years of experience in PHP, with good knowledge of Database Design, Design Pattern.
-- 🌱 I’m currently Python to become a Full Stack Developer
-- 💬 Ask me about web development, functional programming and server.
+- 🔭 I’m currently working at [Clevver.io](https://www.clevver.io/) as a Senior PHP Developer with 7 years of experience in PHP and 2 years of experience in ReactJS. Have good knowledge of Database Design, Design Pattern.
+- 🌱 I like challenging and developing myself. That is also the reason why I always learn other programming languages when I have free time such as Python. I always try my best in all jobs. 
+- 💬 Ask me about web development, functional programming and server programming.
 - ⚡ Fun fact: Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within groups.
-
 
 #### 📫 How to reach me:
 [![website](https://img.shields.io/badge/Website-46a2f1?style=flat&logo=Google-Chrome&logoColor=white&link=https://thangnm.info/)](https://thangnm.info/)
@@ -13,26 +12,45 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white)](https://twitter.com/thangnm93)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:minhthang0403@gmail.com)
 
-#### 👨🏻‍💻 Languages and Tools <br />
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+#### 👨🏻‍💻 Languages & Framework
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nuxt/nuxt.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/yii/yii.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"></code>
+
+#### 🛠 Tools
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/netlify/netlify.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vercel/vercel.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/auth0/auth0.png"></code>
+
+#### 🧰 Package Manager
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/yarn/yarn.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/composer/composer.png"></code>
+
+#### 💾 Databases
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
+
 
 #### 📊 Stats
 [![ThangNM's](https://github-readme-stackoverflow.vercel.app/?userID=6075942&layout=compact)](https://stackoverflow.com/users/6075942/thangnm)
