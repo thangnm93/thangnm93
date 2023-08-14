@@ -1,9 +1,11 @@
 ### Hi there 👋. I'm [Thang Nguyen](https://github.com/thangnm93)
 ![](/header.png)
-- 🔭 I’m currently working at [Clevver.io](https://www.clevver.io/) as a Senior PHP Developer with 7 years of experience in PHP and 2 years of experience in ReactJS. Have good knowledge of Database Design, Design Pattern.
-- 🌱 I like challenging and developing myself. That is also the reason why I always learn other programming languages when I have free time such as Python. I always try my best in all jobs. 
-- 💬 Ask me about web development, functional programming and server programming.
-- ⚡ Fun fact: Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within groups.
+
+- 🔭 I’m currently working at [SenPrints.com](https://senprints.com/) as a Project Manager.
+- 👨🏻‍💻 I have 8 years of experience in PHP, 3 years in ReactJS, 2 years in NuxtJS & VueJS. Strong in DB Design, Design Patterns, and database optimization.
+- 🌱 Embrace challenges and self-improvement. Learning Python during free time. Committed to excellence in all tasks.
+- 💬 Expertise: web development, functional programming, and server programming.
+- ⚡ Passion for learning languages and tech. Valued team player, known for collaboration and group effectiveness.
 
 #### 📫 How to reach me:
 [![website](https://img.shields.io/badge/Website-46a2f1?style=flat&logo=Google-Chrome&logoColor=white&link=https://thangnm.info/)](https://thangnm.info/)
