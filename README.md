@@ -2,7 +2,7 @@
 ![](/header.png)
 
 - 🔭 I’m currently working at [SenPrints.com](https://senprints.com/) as a Project Manager.
-- 👨🏻‍💻 I have 8 years of experience in PHP, 3 years in ReactJS, 2 years in NuxtJS & VueJS. Strong in DB Design, Design Patterns, and database optimization.
+- 👨🏻‍💻 I have 10 years of experience in PHP, 4 years in ReactJS, 4 years in NuxtJS & VueJS. Strong in DB Design, Design Patterns, and database optimization.
 - 🌱 Embrace challenges and self-improvement. Learning Python during free time. Committed to excellence in all tasks.
 - 💬 Expertise: web development, functional programming, and server programming.
 - ⚡ Passion for learning languages and tech. Valued team player, known for collaboration and group effectiveness.
@@ -52,6 +52,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"></code>
 
 
 #### 📊 Stats
